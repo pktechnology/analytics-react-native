@@ -9,6 +9,10 @@ The hassle-free way to add analytics to your React-Native app.
   <p><b><i>You can't fix what you can't measure</i></b></p>
 </div>
 
+## Disclaimer
+
+This is a forked repo, to help mitigate a problem that hasn't been fixed completely in the main repo. To build a new package for whatever changes you have you can follow the instructions in the pkt-dev/analytics-react-native-pkg README.md file.
+
 Analytics helps you measure your users, product, and business. It unlocks insights into your app's funnel, core business metrics, and whether you have product-market fit.
 
 ## How to get started
